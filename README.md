@@ -1,10 +1,9 @@
 # ATM testing
 
-This project contains use cases and test cases for a simple ATM machine. There are 3 questions answered in a text document and a use case graph
+This project contains use cases and test cases for a simple ATM machine. There are 3 questions answered in a text document and a use case diagram document. The project also contains automatic tests typed in pseudo code for the Critical Paths.
 
 ## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Download the project and open the test in any IDE or source code editor. The project files have .groovy extension since it's the language used in Katalon Studio. It made it easier when typing certain groovy reserved keywords.
 
 ### Prerequisites
 
@@ -14,21 +13,9 @@ For the purpose of viewing the automated test you will need an IDE or a source c
 
 These automated tests can't be run
 
-### Break down into end to end tests
+### Tests explained
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+The tests contain many pseudo functions whose purpose is explained in a comment. They are not defined.
 
 ## Built With
 
